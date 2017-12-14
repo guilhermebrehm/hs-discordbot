@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HsChatBot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HsChatBot.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

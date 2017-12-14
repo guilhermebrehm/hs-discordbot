@@ -1,0 +1,175 @@
+[
+
+  {
+    "input": "AoL",
+    "output": "Ancient of Lore"
+  },
+  {
+    "input": "ToL",
+    "output": "Tree of Life"
+  },
+  {
+    "input": "UtH",
+    "output": "Unleash the Hounds",
+  },
+  {
+    "input": "Tony",
+    "output": "Archmage Antonidas"
+  },
+  {
+    "input": "Get down",
+    "output": "Noble Sacrifice"
+  },
+  {
+    "input": "SoJ",
+    "output": "Swords of Justice"
+  },
+  {
+    "input": "MC",
+    "output": "Mysterious Challenger"
+  },
+  {
+    "input": "Dr. 6",
+    "output": "Mysterious Challenger"
+  },
+  {
+    "input": "LoH",
+    "output": "Lay on Hands"
+  },
+  {
+    "input": "CoH",
+    "output": "Circle of Healing"
+  },
+  {
+    "input": "BtG",
+    "output": "Beneath the Grounds"
+  },
+  {
+    "input": "PO",
+    "output": "Power Overwhelming"
+  },
+  {
+    "input": "BoD",
+    "output": "Bane of Doom"
+  },
+  {
+    "input": "KJ",
+    "output": "Knife Juggler"
+  },
+  {
+    "input": "IB",
+    "output": "Injured Blademaster"
+  },
+  {
+    "input": "MCTECH",
+    "output": "Mind Control Tech"
+  },
+  {
+    "input": "DoA",
+    "output": "Defender of Argus"
+  },
+  {
+    "input": "TBK",
+    "output": "The Black Knight"
+  },
+  {
+    "input": "Dr. Balanced",
+    "output": "Dr. Boom"
+  },
+  {
+    "input": "Dr. 7",
+    "output": "Dr. Boom"
+  },
+  {
+    "input": "Kripp",
+    "output": "Competitive Spirit"
+  },
+  {
+    "input": "Wheeeeeee",
+    "output": "Whirling Zap-o-matic"
+  },
+  {
+    "input": "Ghost Wolves",
+    "output": "Feral Spirits"
+  },
+  {
+    "input": "Turtle",
+    "output": "Mal'Ganis"
+  },
+  {
+    "input": "Cancer",
+    "output": "Leper Gnome"
+  },
+  {
+    "input": "HELLO!",
+    "output": "Annoy-o-tron"
+  },
+  {
+    "input": "Reynad",
+    "output": "Salty Dog"
+  },
+  {
+    "input": "Doot Doot",
+    "output": "The Skeleton Knight"
+  },
+  {
+    "input": "BGH",
+    "output": "Big Game Hunter"
+  },
+  {
+    "input": "ETC",
+    "output": "Elite Tauren Chieftain"
+  },
+  {
+    "input": "Murloc Holmes",
+    "output": "Sir Finley"
+  },
+  {
+    "input": "Dr. 8",
+    "output": "Tirion Fordring"
+  },
+  {
+    "input": "Infinite Value",
+    "output": "Wisp"
+  },
+  {
+    "input": "Funnel Cakes",
+    "output": "Refreshment Vendor"
+  },
+  {
+    "input": "Esports",
+    "output": "Unstable Portal"
+  },
+  {
+    "input": "Disguised Toast",
+    "output": "SI:7 Agent"
+  },
+  {
+    "input": "Trifling Gnome",
+    "output": "Wilfred Fizzlebang"
+  },
+  {
+    "input": "FoN",
+    "output": "Force of Nature"
+  },
+  {
+    "input": "SR",
+    "output": "Savage Roar"
+  },
+  {
+    "input": "This Comment",
+    "output": "Savagery"
+  },
+  {
+    "input": "That Comment",
+    "output": "Savagery"
+  },
+  {
+    "input": "His Comment",
+    "output": "Savagery"
+  },
+  {
+    "input": "Her Comment",
+    "output": "Savagery"
+  }
+]
